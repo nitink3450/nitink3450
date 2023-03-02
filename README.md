@@ -104,17 +104,18 @@
 
 <h2 align='center'>📊 My Github Stats</h2>
 
+<p align="center">
+    <a href="https://github.com/nitink3450/github-readme-streak-stats">
+        <img  alt="Nitin kanhurkar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nitink3450&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+</p>
 
   <div align="center"  style="display: flex; justify-content:center; width:100%;marginLeft:30px">
     <img width="450px"  height="200px" alt="Nitin kanhurkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nitink3450&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
     <img width="300px" height="200px" alt="Nitin kanhurkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitink3450&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
 </div>
 
- <p align="center">
-    <a href="https://github.com/nitink3450/github-readme-streak-stats">
-        <img  alt="Nitin kanhurkar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nitink3450&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117"/>
-    </a>
-</p>
+ 
 
 <div>
   <h2 align='center'><b> :balance_scale: Github Profile Details</b></h2><br/>
