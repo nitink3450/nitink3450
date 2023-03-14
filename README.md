@@ -31,6 +31,7 @@
   ![age](https://img.shields.io/badge/age-23-blue&height="20")
   ![living](https://img.shields.io/badge/living-Pune,Maharashtra-maroon)
   ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
+  <img src="https://komarev.com/ghpvc/?username=nitink3450&label=Profile%20views&color=0e75b6&style=flat" alt="devanshdixit" />
   </div>
   <br/>
 
