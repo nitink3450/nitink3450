@@ -127,7 +127,7 @@
   <h2 align='center'><b>📊 Github Contribution Graph</b></h2>
   <!-- <p align="center"<a href="#"><img alt="nitin3450's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nitink3450&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
 
-[![Nitin kanhurkar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nitink3450&theme=github-compact&hide_border=true&bg_color=0D1117)](https://github.com/nitink3450/github-readme-activity-graph)
+[![Nitin kanhurkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitink3450&area=true&hide_border=true&theme=github-compact&bg_color=0D1117)](https://github.com/nitink3450/github-readme-activity-graph)
 
 </div>
 </br>
