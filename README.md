@@ -4,7 +4,7 @@
 </div>
  </br>
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Nitin Kanhurkar!
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nitin Kanhurkar!
 </h2>
 
 <p align="center">
@@ -12,26 +12,35 @@
 </p>
 
 <h2 align="center"> :card_file_box: About Me</h2>
-<h4 align='center'>Strong in design and integration with intuitive problem-solving skills. Proficient MERN Stack.Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start my career as a web developer with a reputed firm driven by technology.</h4>
+<h4 align='center'>I'm a MERN stack enthusiast with a keen eye for design and a knack for problem-solving. Passionate about bringing innovative ideas to life, I excel at launching web projects that bridge business needs with technical solutions. With a strong foundation in both front-end and back-end development, I create seamless, responsive, and scalable applications. Let's collaborate and turn your ideas into digital reality!</h4>
 
 </br>
 
 <img height="250px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
-
+<!-- 
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on Linkedin
 - 🤔 I’m looking for help with developing AI skills..
 - 💬 Ask me about any MERN related stuff
 - 📫 you can reach me at nitinkanhurkar2016@gmail.com
 - 😄 Pronouns: he/Him
+   -->
+   
+- 🚀 Full-Stack Developer | 1+ Year Experience | MERN Enthusiast
+- 🌱 <b>Continuously Learning:</b> Currently honing my skills in the MERN stack to create cutting-edge web solutions.
+- 👯 <b>Open to Collaborate:</b> Passionate about teamwork and open to exciting collaborations. Let's create something amazing together on LinkedIn!
+- 🧠 <b>AI Enthusiast:</b> Exploring the world of artificial intelligence and seeking guidance to further develop my AI skills. Any advice is highly appreciated!
+- 💬 <b>Ask Me About:</b> Feel free to reach out and chat with me about anything related to the MERN stack or web development in general. I'm here to share knowledge and ideas.
+- 📫 <b>Contact Me:</b> Drop me an email at nitinkanhurkar2016@gmail.com for inquiries, projects, or just a friendly conversation.
+- 😄 <b>Pronouns:</b> He/Him
     <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
      <br>
   <div align='start'>
 
   ![age](https://img.shields.io/badge/age-23-blue&height="20")
   ![living](https://img.shields.io/badge/living-Pune,Maharashtra-maroon)
-  ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
-  <img src="https://komarev.com/ghpvc/?username=nitink3450&label=Profile%20views&color=0e75b6&style=flat" alt="devanshdixit" />
+  ![focus](https://img.shields.io/badge/focus-FullStackDevelopment-teal)
+  <img src="https://komarev.com/ghpvc/?username=nitink3450&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
   </div>
   <br/>
 
