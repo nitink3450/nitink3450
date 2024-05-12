@@ -1,5 +1,4 @@
  <div style="width:100%" align="center">
-<!-- <img height="250px" align="center" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/> -->
 <img height="250px" align="center" src="https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ1.gif"/>
 </div>
  </br>
@@ -17,14 +16,6 @@
 </br>
 
 <img height="250px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
-<!-- 
-- 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on Linkedin
-- 🤔 I’m looking for help with developing AI skills..
-- 💬 Ask me about any MERN related stuff
-- 📫 you can reach me at nitinkanhurkar2016@gmail.com
-- 😄 Pronouns: he/Him
-   -->
    
 - 🚀 Full-Stack Developer | 1+ Year Experience | MERN Enthusiast
 - 🌱 <b>Continuously Learning:</b> Currently honing my skills in the MERN stack to create cutting-edge web solutions.
@@ -33,7 +24,6 @@
 - 💬 <b>Ask Me About:</b> Feel free to reach out and chat with me about anything related to the MERN stack or web development in general. I'm here to share knowledge and ideas.
 - 📫 <b>Contact Me:</b> Drop me an email at nitinkanhurkar2016@gmail.com for inquiries, projects, or just a friendly conversation.
 - 😄 <b>Pronouns:</b> He/Him
-    <!-- - ⚡ Fun fact: Hot water will turn into ice faster than cold water. -->
      <br>
   <div align='start'>
 
@@ -60,21 +50,6 @@
 <h2 align='center'> :pencil: Technical Skills</h2>
 </br>
 
-<!-- <div align='center' style="display: flex; gap: 5px">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-2e542d?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-9400d3?style=for-the-badge&logo=bootstrap&logoColor=violet" />
-  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
-</div> -->
 <div align='center' style="display: flex; gap: 5px ; flex-wrap: wrap; justify-content:center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -134,8 +109,7 @@
 </br>
 <div>
   <h2 align='center'><b>📊 Github Contribution Graph</b></h2>
-  <!-- <p align="center"<a href="#"><img alt="nitin3450's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nitink3450&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
-
+ 
 [![Nitin kanhurkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitink3450&area=true&hide_border=true&theme=github-compact&bg_color=0D1117)](https://github.com/nitink3450/github-readme-activity-graph)
 
 </div>
