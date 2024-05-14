@@ -1,7 +1,7 @@
  <div style="width:100%" align="center">
 <img height="250px" align="center" src="https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ1.gif"/>
 </div>
- </br>
+ <br>
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>, I'm Nitin Kanhurkar!
 </h2>
@@ -13,7 +13,7 @@
 <h2 align="center"> :card_file_box: About Me</h2>
 <h4 align='center'>I'm a MERN stack enthusiast with a keen eye for design and a knack for problem-solving. Passionate about bringing innovative ideas to life, I excel at launching web projects that bridge business needs with technical solutions. With a strong foundation in both front-end and back-end development, I create seamless, responsive, and scalable applications. Let's collaborate and turn your ideas into digital reality!</h4>
 
-</br>
+ <br>
 
 <img height="250px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
    
@@ -32,7 +32,7 @@
   ![focus](https://img.shields.io/badge/focus-FullStackDevelopment-teal)
   <img src="https://komarev.com/ghpvc/?username=nitink3450&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
   </div>
-  <br/>
+   <br>
 
 <h2 align='center'> 🔍 Find me here </h2>
 <div align='center'>
@@ -48,7 +48,7 @@
 
 
 <h2 align='center'> :pencil: Technical Skills</h2>
-</br>
+ <br>
 
 <div align='center' style="display: flex; gap: 5px ; flex-wrap: wrap; justify-content:center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=Webflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
 </div>
-<br/>
+ <br>
 
 <h2 align='center'>📊 My Github Stats</h2>
 
@@ -103,19 +103,19 @@
  
 
 <div>
-  <h2 align='center'><b> :balance_scale: Github Profile Details</b></h2><br/>
+  <h2 align='center'><b> :balance_scale: Github Profile Details</b></h2> <br>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitink3450&theme=github_dark&hide_border=true&stroke=0000&background=0D1117" alt="nitin3450" align = "center"/></p>
 </div>
-</br>
+ <br>
 <div>
   <h2 align='center'><b>📊 Github Contribution Graph</b></h2>
  
 [![Nitin kanhurkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nitink3450&area=true&hide_border=true&theme=github-compact&bg_color=0D1117)](https://github.com/nitink3450/github-readme-activity-graph)
 
 </div>
-</br>
+ <br>
 <div>
-  <h2 align='center'><b>🏆 Github Achievements</b></h2><br/>
+  <h2 align='center'><b>🏆 Github Achievements</b></h2> <br>
   <p align="center"> <a href="[https://github.com/nitin3450](https://github.com/nitin3450)"><img src="https://github-profile-trophy.vercel.app/?username=nitink3450&margin-w=5&theme=radical" alt="nitin3450" /></a> </p>
 </div>
 
