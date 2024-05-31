@@ -17,7 +17,7 @@
 
 <img height="250px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
    
-- 🚀 Full-Stack Developer | 1+ Year Experience | MERN Enthusiast
+- 🚀 Full-Stack Developer | 2+ Year Experience | MERN Enthusiast
 - 🌱 <b>Continuously Learning:</b> Currently honing my skills in the MERN stack to create cutting-edge web solutions.
 - 👯 <b>Open to Collaborate:</b> Passionate about teamwork and open to exciting collaborations. Let's create something amazing together on LinkedIn!
 - 🧠 <b>AI Enthusiast:</b> Exploring the world of artificial intelligence and seeking guidance to further develop my AI skills. Any advice is highly appreciated!
