@@ -22,7 +22,7 @@
 - 👯 <b>Open to Collaborate:</b> Passionate about teamwork and open to exciting collaborations. Let's create something amazing together on LinkedIn!
 - 🧠 <b>AI Enthusiast:</b> Exploring the world of artificial intelligence and seeking guidance to further develop my AI skills. Any advice is highly appreciated!
 - 💬 <b>Ask Me About:</b> Feel free to reach out and chat with me about anything related to the MERN stack or web development in general. I'm here to share knowledge and ideas.
-- 📫 <b>Contact Me:</b> Drop me an email at nitinkanhurkar2016@gmail.com for inquiries, projects, or just a friendly conversation.
+- 📫 <b>Contact Me:</b> Drop me an email at work.with.nitin.k@gmail.com for inquiries, projects, or just a friendly conversation.
 - 😄 <b>Pronouns:</b> He/Him
       <br/>
   <div align='start'>
