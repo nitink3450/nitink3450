@@ -38,7 +38,7 @@
 <div align='center'>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/nitin-kanhurkar-680657158/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=sharp&logoColor=white&color=red)](https://nitink3450.github.io/my-portfolio/mainpage.html)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=sharp&logoColor=white&color=red)](https://nitinkanhurkar.vercel.app/)
 [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://https://medium.com/@nitinkanhurkar2016)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/nitink3450)
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/nitin_k07/)
