@@ -17,7 +17,7 @@
 
 <img height="250px" align="right" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
    
-- 🚀 Full-Stack Developer | 2+ Year Experience | MERN Enthusiast
+- 🚀 Full-Stack Developer | MERN Stack | Active Since 2022
 - 🌱 <b>Continuously Learning:</b> Currently honing my skills in the MERN stack to create cutting-edge web solutions.
 - 👯 <b>Open to Collaborate:</b> Passionate about teamwork and open to exciting collaborations. Let's create something amazing together on LinkedIn!
 - 🧠 <b>AI Enthusiast:</b> Exploring the world of artificial intelligence and seeking guidance to further develop my AI skills. Any advice is highly appreciated!
@@ -27,7 +27,7 @@
       <br/>
   <div align='start'>
 
-  ![age](https://img.shields.io/badge/age-24-blue&height="20")
+  ![age](https://img.shields.io/badge/age-25-blue&height="20")
   ![living](https://img.shields.io/badge/living-Pune,Maharashtra-maroon)
   ![focus](https://img.shields.io/badge/focus-FullStackDevelopment-teal)
   <img src="https://komarev.com/ghpvc/?username=nitink3450&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
