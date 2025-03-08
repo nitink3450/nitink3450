@@ -34,7 +34,7 @@
   </div>
    <br/>
 
-<h2 align='center'> 🔍 Find me here </h2>
+<h2 align='center'> 🔍 Find me here.</h2>
 <div align='center'>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/nitin-kanhurkar-680657158/)
