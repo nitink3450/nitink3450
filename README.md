@@ -1,4 +1,4 @@
- <div style="width:100%" align="center">
+<div style="width:100%" align="center">
 <img height="250px" align="center" src="https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ1.gif"/>
 </div>
  <br/>
@@ -8,6 +8,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;&center=true&width=500&height=50"/>
+</p>
+
+<p align="center">
+  🌐 <b>Portfolio:</b> <a href="https://www.nitinkanhurkar.dev">nitinkanhurkar.dev</a>
 </p>
 
 <h2 align="center"> :card_file_box: About Me</h2>
@@ -38,13 +42,33 @@
 <div align='center'>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=blue&color=blue)](https://www.linkedin.com/in/nitin-kanhurkar-680657158/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=sharp&logoColor=white&color=red)](https://nitinkanhurkar.vercel.app/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio--informational?style=flat&logo=sharp&logoColor=white&color=red)](https://www.nitinkanhurkar.dev/)
 [![Medium Badge](https://img.shields.io/badge/Medium--informational?style=flat&logo=medium&logoColor=black&color=white)](https://https://medium.com/@nitinkanhurkar2016)
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/nitink3450)
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode--informational?style=flat&logo=leetcode&logoColor=yellow&color=yellow)](https://leetcode.com/nitin_k07/)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank--green?style=flat&logo=hackerrank&logoColor=white&color=green)](https://www.hackerrank.com/nitin_k07)
 
 </div>
+
+<h2 align='center'> 🌐 Portfolio, Projects & Writing</h2>
+
+- 💼 [Nitin Kanhurkar – Full-Stack Developer Portfolio](https://www.nitinkanhurkar.dev)
+- 🛠️ [Projects I've built (Ather Energy, Permissionless, 4Monks & more)](https://www.nitinkanhurkar.dev/project)
+- 🤝 [Hire me – open to work](https://www.nitinkanhurkar.dev/hire-me)
+- 🙋 [About me](https://www.nitinkanhurkar.dev/about)
+
+**📝 Latest blog posts**
+- [Form Handling in React – From useState to React Hook Form](https://www.nitinkanhurkar.dev/blog/form-handling-in-react-usestate-to-react-hook-form)
+- [Understanding Map, Filter, Reduce, and ForEach in JavaScript](https://www.nitinkanhurkar.dev/blog/javascript-array-methods)
+- [Next.js TypeScript Folder Guide](https://www.nitinkanhurkar.dev/blog/nextjs-ts-folder-guide)
+- [Setting Up Next.js with Tailwind CSS and TypeScript](https://www.nitinkanhurkar.dev/blog/nextjs-tailwind-typescript-setup)
+- [All blog posts →](https://www.nitinkanhurkar.dev/blog)
+
+**⚡ Code snippets**
+- [Build a Custom Toast System in React](https://www.nitinkanhurkar.dev/snippet/build-custom-toast-system-in-react)
+- [useMediaQuery Hook for Responsive React](https://www.nitinkanhurkar.dev/snippet/use-media-query)
+- [useOnScreen Hook in React](https://www.nitinkanhurkar.dev/snippet/use-on-screen)
+- [All snippets →](https://www.nitinkanhurkar.dev/snippet)
 
 
 <h2 align='center'> :pencil: Technical Skills</h2>
